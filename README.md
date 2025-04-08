@@ -1,8 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#  React Todo App
 
-Currently, two official plugins are available:
+Projeto utilizando o React v18 para aprender conceitos básicos do framework. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Funcionalidades
+
+
+- UseEffect
+- UseState
+- useNavigate
+- React Router Dom
+- Props
+- UUID
+- TailWind  
+- Localstorage

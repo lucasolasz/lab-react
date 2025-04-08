@@ -26,7 +26,7 @@ function App() {
       setTasks(data);
     };
     // Chamar a funcao
-    fetchTasks();
+    // fetchTasks();
   }, []);
 
   function onTaskClick(taskId) {
